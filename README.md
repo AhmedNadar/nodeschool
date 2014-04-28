@@ -1,4 +1,4 @@
-[![nodeschool-logo](stuff/nodeschool.png)](http://nodeschool.io)
+[![nodeschool-logo](http://nodeschool.io/images/nodeschool-straight.png)](http://nodeschool.io)
 #Tutorial 01 - Learn You Node
 **Learn the basics of node: asynchronous i/o, http**
 
