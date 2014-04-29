@@ -1,6 +1,22 @@
 [![nodeschool-logo](http://nodeschool.io/images/nodeschool-straight.png)](http://nodeschool.io)
-#Tutorial 01 - Learn You Node
-**Learn the basics of node: asynchronous i/o, http**
+###Learn You Node
+** LEARN YOU THE NODE.JS FOR MUCH WIN! **
 
-###About the Author###
-This tutorial was written by [Rod Vagg](https://github.com/rvagg). If you find this tutorial helpful and you'd like to say thanks to Rod, why not [make a small donation here?](https://www.gittip.com/rvagg)
+**Content**
+
+* HELLO WORLD
+* BABY STEPS   
+* MY FIRST I/O!
+* MY FIRST ASYNC I/O!
+* FILTERED LS
+* MAKE IT MODULAR
+* HTTP CLIENT
+* HTTP COLLECT
+* JUGGLING ASYNC
+* TIME SERVER
+* HTTP FILE SERVER
+* HTTP UPPERCASERER
+* HTTP JSON API SERVER
+    
+
+This tutorial was written by [Rod Vagg](https://github.com/rvagg). 
